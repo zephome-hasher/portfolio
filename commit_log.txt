@@ -1,3 +1,4 @@
 2016-01-01 -> Commit log entry for day 1
 2016-01-02 -> Commit log entry for day 2
 2016-01-03 -> Commit log entry for day 3
+2016-01-04 -> Commit log entry for day 4

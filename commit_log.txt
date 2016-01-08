@@ -5,3 +5,4 @@
 2016-01-05 -> Commit log entry for day 5
 2016-01-06 -> Commit log entry for day 6
 2016-01-07 -> Commit log entry for day 7
+2016-01-08 -> Commit log entry for day 8

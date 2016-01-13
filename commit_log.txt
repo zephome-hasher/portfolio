@@ -10,3 +10,4 @@
 2016-01-10 -> Commit log entry for day 10
 2016-01-11 -> Commit log entry for day 11
 2016-01-12 -> Commit log entry for day 12
+2016-01-13 -> Commit log entry for day 13

@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.env
+.env.local
+.cache/
+dist/
+.vscode/
+*.log
+ghpaint*

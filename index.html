@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John Smith - Developer Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">JS</div>
+            <div class="theme-toggle">
+                <button id="themeToggle">🌙</button>
+            </div>
+        </nav>
+        <div class="hero">
+            <h1>John Smith</h1>
+            <p>Full Stack Developer</p>
+        </div>
+    </header>
+
+    <main>
+        <section id="projects">
+            <h2>My Projects</h2>
+            <div class="project-grid">
+                <div class="project-card">
+                    <h3>Weather App</h3>
+                    <p>A simple weather application built with React and OpenWeather API.</p>
+                    <div class="project-links">
+                        <a href="#">View Project</a>
+                        <a href="#">GitHub</a>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <h3>Task Manager</h3>
+                    <p>Todo list application with local storage and drag-drop functionality.</p>
+                    <div class="project-links">
+                        <a href="#">View Project</a>
+                        <a href="#">GitHub</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <form id="contactForm">
+                <input type="text" placeholder="Name" required>
+                <input type="email" placeholder="Email" required>
+                <textarea placeholder="Message" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; SparkCTF 2024. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
